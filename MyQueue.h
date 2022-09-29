@@ -4,7 +4,7 @@
 #include <iostream>
 #include <algorithm>
 
-#include "MyVector_m699o169.h"
+#include "MyVector.h"
 
 template <typename DataType>
 class MyQueue : private MyVector<DataType>
